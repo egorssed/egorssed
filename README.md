@@ -5,10 +5,10 @@ I am a graduate Master in astrophysics at EPFL (Swiss Federal Institute of Techn
 In the course of my research activity, I work with time series analysis. Specifically, I enhance Gaussian processes with neural networks to solve the tasks of time series interpolation and forecasting. I have previously worked on computer vision tasks: inference of non-linearly transformed Gaussian processes, development of generative neural networks, and spectral analysis of images.
 
 My current work is:
- - 40% machine learning
- - 25% software development
- - 25% statistics
- - 10% physics
+ - 40% machine learning 🚀
+ - 25% software development 👨‍💻
+ - 25% statistics 🧑‍🔬
+ - 10% physics 🪐
 
 I currently look for positions in finance and IT, with the tasks that imply the use of deep learning, statistics and software development.
 
